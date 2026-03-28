@@ -106,6 +106,7 @@ android {
     }
 
     defaultConfig {
+        applicationId = "com.moyun365.android.gkmathtong"
         minSdk = androidMinSdkVersion
         targetSdk = androidTargetSdkVersion
         versionCode = managerVersionCode
